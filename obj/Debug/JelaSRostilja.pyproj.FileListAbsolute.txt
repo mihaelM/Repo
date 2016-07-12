@@ -1,0 +1,75 @@
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\attach_server.py
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\visualstudio_py_repl.py
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\visualstudio_py_util.py
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\__init__.py
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\__main__.py
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\bin\AzureSetup.cfg
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\bin\wfastcgi.py
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\ptvs_virtualenv_proxy.py
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\web.config
+C:\Users\Josip\Documents\Visual Studio 2013\Projects\Laganini-mihael_grana\JelaSRostilja\obj\Debug\web.debug.config
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\attach_server.py
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\visualstudio_py_repl.py
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\visualstudio_py_util.py
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\__init__.py
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\__main__.py
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\bin\AzureSetup.cfg
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\bin\wfastcgi.py
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\ptvs_virtualenv_proxy.py
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\web.config
+C:\Users\Mihael\Desktop\Laganini-mihael_grana\JelaSRostilja\obj\Debug\web.debug.config
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\attach_server.py
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_repl.py
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_util.py
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\__init__.py
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\__main__.py
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\bin\AzureSetup.cfg
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\bin\wfastcgi.py
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\ptvs_virtualenv_proxy.py
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\web.config
+C:\Users\Mihael\Desktop\Klon-laganini\Laganini\JelaSRostilja\obj\Debug\web.debug.config
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\attach_server.py
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_repl.py
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_util.py
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\__init__.py
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\__main__.py
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\AzureSetup.cfg
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\wfastcgi.py
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\deployment-updated-orig-prefix.txt
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\ptvs_virtualenv_proxy.py
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\web.config
+C:\Users\Mihael\Desktop\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\web.debug.config
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.WebRole.dll
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\attach_server.py
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_debugger.py
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_repl.py
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\visualstudio_py_util.py
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\__init__.py
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\__main__.py
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\AzureSetup.cfg
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\Microsoft.PythonTools.AzureSetup.exe.config
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\bin\wfastcgi.py
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\deployment-updated-orig-prefix.txt
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\ptvs_virtualenv_proxy.py
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\web.config
+D:\Users\petiSemestar\5.semestar\Klon-laganini - Copy\Laganini\JelaSRostilja\obj\Debug\web.debug.config
